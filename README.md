@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo detectar transações fraudulentas em cartões de crédito utilizando o algoritmo **K-Vizinhos Mais Próximos (K-NN)** com base em uma amostragem de um grande dataset de transações reais.
 
-[![Abrir no Google Colab](https://colab.research.google.com/drive/1ZOclwn3b0AuyLmNJA4Jp9TtwjWX54wfa?usp=sharing)
+[[Abrir no Google Colab](https://colab.research.google.com/drive/1ZOclwn3b0AuyLmNJA4Jp9TtwjWX54wfa?usp=sharing)
 
 ## Arquivo principal
 - `DataAnalyticsFraudDetect.ipynb`: notebook com todas as etapas de análise, pré-processamento, modelagem e avaliação.
