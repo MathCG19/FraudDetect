@@ -26,7 +26,7 @@ Este notebook foi desenvolvido como atividade prática da disciplina de Machine 
 - Google Colab
 
 ## Resultado
-O modelo apresentou X% de acurácia na detecção de fraudes, com bom equilíbrio entre precisão e recall.
+O modelo apresentou 98% de acurácia na detecção de fraudes, com bom equilíbrio entre precisão e recall.
 
 ## Autor
 Matheus Cardoso Gomes - [LinkedIn](www.linkedin.com/in/matheus-cardoso-70552b138)
